@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: aquamarine;
+  font-size: 15px;
+  font-family: Verdana;
+}
+
+a {
+  color: aquamarine;
+}
+
+.travel {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+.copyrite {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
+
+.icon {
+  padding-top: 30px;
+}
